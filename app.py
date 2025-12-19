@@ -56,7 +56,7 @@ Assistant:
 # UI
 # --------------------------------------------------
 
-st.title("LangChain Chatbot")
+st.title("Tony's Awesome Chatbot")
 
 user_input = st.text_input("You:")
 
